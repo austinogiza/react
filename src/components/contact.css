@@ -1,0 +1,10 @@
+ul {
+    list-style-type: none;
+}
+
+.hero {
+    background: linear-gradient(135deg, #087CA7 1.04%, #03CEA4 100%);
+    width: 100%;
+    color: #ffffff;
+    height: 600px;
+}
