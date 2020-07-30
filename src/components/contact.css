@@ -1,10 +1,11 @@
 ul {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 .hero {
-    background: linear-gradient(135deg, #087CA7 1.04%, #03CEA4 100%);
-    width: 100%;
-    color: #ffffff;
-    height: 600px;
+  background: url("../image/front.svg") no-repeat center center/cover,
+    url("../image/back.svg") no-repeat center center/cover;
+  width: 100%;
+  color: #ffffff;
+  height: 700px;
 }
