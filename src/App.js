@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import "./App.css";
-import Contact from "../src/components/Contact";
-import Header from "../src/components/Header";
+import React, { Component } from "react"
+import "./App.css"
+import Contact from "../src/components/Contact"
+import Header from "../src/components/Header"
 
 class App extends Component {
   render() {
@@ -11,12 +11,12 @@ class App extends Component {
         <Contact
           name="Ogiza"
           language="Python and Javascript"
-          email="Austinogiza@gmail.com"
+          email="gmail.com"
         />
         <h1>Today is a great day</h1>
       </div>
-    );
+    )
   }
 }
 
-export default App;
+export default App
